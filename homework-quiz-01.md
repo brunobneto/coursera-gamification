@@ -10,7 +10,7 @@
 The term "gamification" came into common usage in its current sense around 2010. According to the course videos, which of the following earlier developments contributed to the concept of gamification as we understand it today? (Check all that apply)
 
 - [x] Service providers that employed game elements to help companies promote engagement or other business goals
-- [x] Academic research on motivation and learning through video games
+- [X] Bartle's efforts to develop the first MUD demonstrated how game elements could be used to make a situation more game-like. (course 2015)
 
 ## Question 2
 
@@ -39,3 +39,5 @@ _None of the other answers is an example of gamification._
 Work.com (formerly Salesforce Rypple) uses badges and other game elements to help employees within companies to recognize and reward each other for their work. As defined in this course, Work.com is an example of:
 
 _Internal gamification_
+
+[x] The average age of a gamer is 30, and 47% of gamers are female (Course 2015)
